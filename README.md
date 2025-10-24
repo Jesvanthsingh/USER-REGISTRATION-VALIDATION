@@ -6,7 +6,8 @@ Features:
 ---------
 ⦿ Required Fields: Enforces that Name, Email, Password, and Confirm Password fields are completed.
 ⦿ Password Match Validation: Checks that the Password and Confirm Password fields contain identical values.
-⦿ Inline Error Messages: Provides user-friendly feedback by displaying red error messages directly below the input fields, instead of using intrusive browser alert() pop-ups.
+⦿ Inline Error Messages: Provides user-friendly feedback by displaying red error messages directly below the input fields, instead of
+using intrusive browser alert() pop-ups.
 ⦿ Input Highlighting: Invalid input fields are highlighted with a distinct red border for better visibility.
 ⦿ Client-Side Redirection: Upon successful validation, the user is redirected from the index.html (registration) page to a dashboard.html page (simulating a successful login).
 
